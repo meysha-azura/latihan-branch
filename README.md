@@ -1,2 +1,2 @@
 # latihan-branch
-Belajar di GitHb di Dicoding itu seru lohj
+Belajar di GitHub di Dicoding itu seru loh
